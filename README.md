@@ -5,7 +5,7 @@ Hi there! I'm a **Full-Stack Web Developer** with a passion for creating innovat
 ---
 
 ## 🖋️ About Me  
-✨ **Name**: Afifa Khan 
+✨ **Name**: Afifa Khan <br/>
 ✨ **Role**: Full-Stack Web Developer  
 ✨ **Current Focus**: Exploring **Artificial Intelligence**  
 
